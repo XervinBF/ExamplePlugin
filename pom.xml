@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.xbf.addons</groupId>
 	<artifactId>ExamplePlugin</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 
 	<repositories>
 		<repository>
@@ -18,7 +18,7 @@
 		<dependency>
 			<groupId>com.github.XervinBF</groupId>
 			<artifactId>xbf-core</artifactId>
-			<version>0.0.8</version>
+			<version>0.0.11</version>
 		</dependency>
 
 	</dependencies>
